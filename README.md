@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi there 👋 It's me Hovarthan S
+## Hi there 👋 It's me MITHUN S 
 
 B.Tech - Artificial Intelligence and Data Science
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
@@ -36,7 +36,7 @@ src="https://img.icons8.com/color/48/000000/tensorflow.png"/><img height="50" wi
 
 ##  My GitHub Stats
 
-![Hovarthan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hovarthan21&show_icons=true&theme=tokyonight&count_private=true)
+![MITHUN's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hovarthan21&show_icons=true&theme=tokyonight&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hovarthan21&layout=compact&theme=tokyonight&card_width=495)
 
