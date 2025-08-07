@@ -36,17 +36,17 @@ src="https://img.icons8.com/color/48/000000/tensorflow.png"/><img height="50" wi
 
 ##  My GitHub Stats
 
-![MITHUN's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hovarthan21&show_icons=true&theme=tokyonight&count_private=true)
+![MITHUN's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mithun21&show_icons=true&theme=tokyonight&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hovarthan21&layout=compact&theme=tokyonight&card_width=495)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mithun21&layout=compact&theme=tokyonight&card_width=495)
 
 
 
-[![Hovarthan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hovarthan21&bg_color=070303&color=fafafa&line=2dc62a&point=fffafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![MITHUN's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mithun21&bg_color=070303&color=fafafa&line=2dc62a&point=fffafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h3> Contact</h3>
 <p><strong>Feel free to connect!</strong></p>
 <ul>
-  <li> Email: <a href="mailto:hovarthan04@gmail.com">hovarthan04@gmail.com</a></li>
-  <li> Phone: <a href="tel:+919363793810">+91 9363793810</a></li>
+  <li> Email: <a href="mailto:mithupramila@gmail.com">mithunpramila@gmail.com</a></li>
+  <li> Phone: <a href="tel:+917639097374">+91 7639097374</a></li>
 </ul>
